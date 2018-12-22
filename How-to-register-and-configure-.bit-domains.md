@@ -1,3 +1,7 @@
+
+#   remember :  most stuff stuff here is outdated, not maintained, and links are usually dead or almost dead 
+
+
 # Register a domain with a registrar
 
 * http://register.dot-bit.org — payments accepted: BTC (Bitcoins)
